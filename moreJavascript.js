@@ -59,7 +59,7 @@ const persona ={
 console.log(persona.presentarse());
 
 
- CREAR OBJETOS RAPIDO
+ //CREAR OBJETOS RAPIDO
 
 var crearObjetos=(nombre,apellido,edad)=>{
     return {
@@ -76,7 +76,7 @@ console.log(crearObjetos("seidy","wong", 43));
 console.log(crearObjetos("pablo","murillo",44));
 
 //plantilla de cadena o literal
-var persona = {
+var persona1 = {
     nombre: "seidy",
     edad: 43
 };

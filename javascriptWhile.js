@@ -79,7 +79,7 @@ for (var i = 0; i<miArreglo.length; i++){
     for(var j = 0; j<arregloAnidado.length; j++){
         console.log(arregloAnidado[j]);
     }
-}*/
+}
 
 
 /*function contarPares(arreglo){
