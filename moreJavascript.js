@@ -15,7 +15,7 @@ class Libro{
     }
 };
 
-var nuevoLibro = new Libro("seidy");
+var nuevoLibro = new Libro("sam");
 console.log(nuevoLibro);
 nuevoLibro._autor= "pablo";
 console.log(nuevoLibro);
