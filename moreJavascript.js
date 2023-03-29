@@ -22,7 +22,7 @@ console.log(nuevoLibro);
 
 //clase
 
-/*class MiMascota {
+class MiMascota {
     constructor(nombre, tipo){
         this.nombre = nombre;
         this.tipo = tipo;
@@ -59,7 +59,7 @@ const persona ={
 console.log(persona.presentarse());
 
 
-// CREAR OBJETOS RAPIDO
+ CREAR OBJETOS RAPIDO
 
 var crearObjetos=(nombre,apellido,edad)=>{
     return {
@@ -111,4 +111,3 @@ console.log(arr);
 
 console.log(b);
 
-*/

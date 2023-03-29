@@ -1,4 +1,4 @@
-/*
+
 //funcion flecha
 const sumarTres = (x) => x+3;
 console.log (sumarTres(2));
